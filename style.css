@@ -169,6 +169,7 @@ form {
 .menu-column ul {
     list-style: none;
     padding: 0;
+    text-align: center;
 }
 
 .menu-column li {
@@ -184,6 +185,7 @@ form {
     margin: 40px auto;
     max-width: 800px;
     padding: 0 20px;
+    text-align: center;
 }
 
 .other-menu h2 {
@@ -196,6 +198,7 @@ form {
     font-size: 20px;
     margin: 20px 0 10px 0;
     color: #2c3e50;
+    text-align: center;
 }
 
 .other-menu ul {
