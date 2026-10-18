@@ -164,6 +164,7 @@ form {
     text-align: center;
     font-size: 24px;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .menu-column ul {
@@ -175,10 +176,12 @@ form {
 .menu-column li {
     margin-bottom: 15px;
     font-size: 16px;
+    text-align: center;
 }
 
 .menu-column li strong {
     font-size: 18px;
+    text-align: center;
 }
 
 .other-menu {
@@ -205,11 +208,13 @@ form {
     list-style: none;
     padding: 0;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .other-menu li {
     margin-bottom: 8px;
     font-size: 16px;
+    text-align: center;
 }
 
 /* bestall.html */
